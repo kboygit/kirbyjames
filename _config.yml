@@ -23,6 +23,9 @@ unpublished: false
 # Plugins
 whitelist: []
 gems:      [jekyll-paginate]
+gems:      [kramdown]
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+
 
 # Conversion
 markdown:    kramdown
