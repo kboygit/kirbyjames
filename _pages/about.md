@@ -34,5 +34,3 @@ sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev
 # otherwise, you can add "sudo" at the beginning of the command
   sudo gem install gosu
 {% endhighlight %}
-
-![](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/helmet-128.png)
