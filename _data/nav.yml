@@ -1,4 +1,4 @@
 main:
-    - { url: '/about', text: 'Kirby James' }
+    - { url: 'about', text: 'Kirby James' }
     - { url: 'https://github.com/kboygit', text: 'Github'}
     - { url: 'https://twitter.com/FernandezKboy', text: 'Twitter' }

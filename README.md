@@ -6,7 +6,8 @@ Icons:PixelBuddha
 
 On Development
 
-Link Preview: https://slashgeegee.github.io/blogjekyll/
+Link Preview: https://kboygit.github.io/kirbyjames/
+Development Preview: https://slashgeegee.github.io/blogjekyll/
 
 The link is hosted via github on a separate repository for development purposes.Reason is I am making the get request work.Feel free to navigate on my jekyll design.
 
