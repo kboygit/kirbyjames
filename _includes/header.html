@@ -32,6 +32,9 @@
         <script src="{{ site.data.global.url }}/js/respond.min.js"></script>
     <![endif]-->
 
+    <!-- base -->
+  <base href="{{ site.data.global.url }}">
+  
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
 
