@@ -3,14 +3,13 @@ layout: inner
 title: Kirby James
 permalink: /about/
 ---
-![](https://cdn2.iconfinder.com/data/icons/starwars/icons/128/DarthVader.png)
-![](https://cdn4.iconfinder.com/data/icons/ironman_lin/128/ironman_III.png)
-![](https://cdn4.iconfinder.com/data/icons/ironman_lin/128/ironman_II.png)
-![](https://cdn4.iconfinder.com/data/icons/ironman_lin/128/ironman_I.png)
-![](https://cdn2.iconfinder.com/data/icons/starwars/icons/128/Boba%20Fett.png)
-![](https://cdn2.iconfinder.com/data/icons/starwars/icons/128/clone-old.png)
-![](https://cdn2.iconfinder.com/data/icons/starwars/icons/128/R2-D2.png)
-
+![theater](/assets/images/2017/theatre.png)
+![theater](/assets/images/2017/luggage.png)
+![theater](/assets/images/2017/demolition.png)
+![theater](/assets/images/2017/watch.png)
+![theater](/assets/images/2017/laptop.png)
+![theater](/assets/images/2017/heart.png)
+![theater](/assets/images/2017/fireextinguisher.png)
 
 Hi my name is Kirby you can call me Kirby.
 I am a self-taught developer , who loves to push 100 percent just to learn programming in general.
@@ -20,6 +19,7 @@ We are given a chance to live in the United States and we are so grateful for al
 I usually hangout on Github and Operation Code slack.
 To learn and being mentored by really talented people in the Technology Industry(Web Development & Software Development.), right now I am being mentored by a person whom I won't disclosed his name, mainly on Javascript.And also certain people on Ruby on Rails and different guidance and advice.
 I am thankful and grateful for everybody in this journey of mine.
+
 
 {% highlight ruby %}
 First Ruby Game Library Encounter:
