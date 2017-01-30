@@ -22,6 +22,10 @@ unpublished: false
 
 # Plugins
 whitelist: []
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
 
 
