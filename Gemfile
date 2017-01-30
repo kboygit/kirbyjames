@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 ruby '2.3.1'
+require 'json'
+require 'open-uri'
+versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'kramdown'
 gem 'rack-jekyll', git: 'https://github.com/adaoraul/rack-jekyll.git'

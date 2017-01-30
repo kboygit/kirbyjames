@@ -3,13 +3,13 @@ layout: inner
 title: Kirby James
 permalink: /about/
 ---
-![theater](/assets/images/2017/theatre.png)
-![theater](/assets/images/2017/luggage.png)
-![theater](/assets/images/2017/demolition.png)
-![theater](/assets/images/2017/watch.png)
-![theater](/assets/images/2017/laptop.png)
-![theater](/assets/images/2017/heart.png)
-![theater](/assets/images/2017/fireextinguisher.png)
+![theater]({{ site.baseurl }}/assets/images/2017/theatre.png)
+![theater]({{ site.baseurl }}/assets/images/2017/luggage.png)
+![theater]({{ site.baseurl }}/assets/images/2017/demolition.png)
+![theater]({{ site.baseurl }}/assets/images/2017/watch.png)
+![theater]({{ site.baseurl }}/assets/images/2017/laptop.png)
+![theater]({{ site.baseurl }}/assets/images/2017/heart.png)
+![theater]({{ site.baseurl }}/assets/images/2017/fireextinguisher.png)
 
 Hi my name is Kirby you can call me Kirby.
 I am a self-taught developer , who loves to push 100 percent just to learn programming in general.
