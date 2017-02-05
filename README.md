@@ -1,3 +1,11 @@
+<h1 align="center">
+	<br>
+	![Kirby](assets/images/kirbylogo.png?raw=true "kirbylogo")
+	<br>
+	<br>
+	<br>
+</h1>
+
 # Daily Learning Blog:
 
 ![Kirby](assets/images/kirbylogo.png?raw=true "kirbylogo")
