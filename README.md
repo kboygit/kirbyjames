@@ -1,12 +1,10 @@
 <h1 align="center">
 	<br>
-	![Kirby](assets/images/kirbylogo.png?raw=true "kirbylogo")
+	Kirby's Daily Learning Blog
 	<br>
 	<br>
 	<br>
 </h1>
-
-# Daily Learning Blog:
 
 ![Kirby](assets/images/kirbylogo.png?raw=true "kirbylogo")
 
