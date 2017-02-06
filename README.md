@@ -1,4 +1,10 @@
-# Daily Learning Blog:
+<h1 align="center">
+	<br>
+	Kirby's Daily Learning Blog
+	<br>
+	<br>
+	<br>
+</h1>
 
 ![Kirby](assets/images/kirbylogo.png?raw=true "kirbylogo")
 

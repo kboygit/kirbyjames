@@ -11,15 +11,19 @@ permalink: /about/
 ![theater]({{ site.baseurl }}/assets/images/2017/heart.png)
 ![theater]({{ site.baseurl }}/assets/images/2017/fireextinguisher.png)
 
-Hi my name is Kirby you can call me Kirby.
-I am mostly a self-taught developer , who loves to push 100 percent just to learn programming in general.I am a Navy Veteran who <3's technology and everything about computers.
+<p align="center">
+  <snap>Hi my name is Kirby you can call me Kirby.</snap><br><br>
 
-I love object-oriented programming,data science, ruby, cybersecurity and a part of OperationCode.
+  <snap>I am mostly a self-taught developer , who loves to push 100 percent just to learn programming in general.I am a Navy Veteran who <3's technology and everything about computers.</snap><br><br>
 
-I usually hangout on Github and Slack.I like to eat food which I never tried before.And love being surrounded by super motivated and like minded individuals.
+  <snap>I love object-oriented programming,data science, ruby, cybersecurity and a part of OperationCode.</snap><br><br>
 
-Motto:
+  <snap>I usually hangout on Github and Slack.I like to eat food which I never tried before.And love being surrounded by super motivated and like minded individuals.</snap><br>
+  <br><br>
+</p>
 
+
+    Motto:
     It is better to get zero than nothing.
     If you ain't feel dying you aren't trying.
 
@@ -47,3 +51,10 @@ sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev
 # otherwise, you can add "sudo" at the beginning of the command
   sudo gem install gosu
 {% endhighlight %}
+
+<p align="center" style= "font-size: 15px">
+  <em>This site is powered by jekyll and hosted on github.</em><br>
+  <em>Icons are pixelbuddha, image-resizing from logomakr.</em><br>
+  <em>Theme by scotch added my own flavor of minimalist style.</em><br>
+  <br><br>
+</p>
