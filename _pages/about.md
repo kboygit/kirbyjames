@@ -3,16 +3,6 @@ layout: inner
 title: Kirby James
 permalink: /about/
 ---
-<!--
- ![theater]({{ site.baseurl }}/assets/images/2017/theatre.png)
-![theater]({{ site.baseurl }}/assets/images/2017/luggage.png)
-![theater]({{ site.baseurl }}/assets/images/2017/demolition.png)
-![theater]({{ site.baseurl }}/assets/images/2017/watch.png)
-![theater]({{ site.baseurl }}/assets/images/2017/laptop.png)
-![theater]({{ site.baseurl }}/assets/images/2017/heart.png)
-![theater]({{ site.baseurl }}/assets/images/2017/fireextinguisher.png)
- -->
-
 <p align="center" class="lead">
   <snap>Hi my name is Kirby you can call me Kirby.</snap><br>
   <iframe src="//giphy.com/embed/vzU2bZ8WaCCA" width="200" height="145"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -23,14 +13,18 @@ permalink: /about/
 
   <snap>I love object-oriented programming,data science, ruby, cybersecurity and a part of OperationCode.</snap>
 
-  <snap>I usually hangout on Github and Slack.I like to eat food which I never tried before.And love being surrounded by super motivated and like minded individuals.</snap><br>
+  <snap>I usually hangout on Github and Slack.I like to eat food which I never tried before.And love being surrounded by super motivated and like minded individuals.</snap>
+  <br>
   <br>
 </div>
-
-
+<br>
+<br>
+<br>
+{% highlight python %}
     Motto:
     It is better to get zero than nothing.
     If you ain't feel dying you aren't trying.
+{% endhighlight %}
 
 {% highlight ruby %}
 puts "Hello , how are you?" + " I hope you are you doing fine and well."
