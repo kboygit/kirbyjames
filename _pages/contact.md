@@ -4,6 +4,17 @@ title: Contact
 permalink: /contact/
 ---
 
+<!--
+![theater]({{ site.baseurl }}/assets/images/2017/theatre.png)
+![theater]({{ site.baseurl }}/assets/images/2017/luggage.png)
+![theater]({{ site.baseurl }}/assets/images/2017/demolition.png)
+![theater]({{ site.baseurl }}/assets/images/2017/watch.png)
+![theater]({{ site.baseurl }}/assets/images/2017/laptop.png)
+![theater]({{ site.baseurl }}/assets/images/2017/heart.png)
+![theater]({{ site.baseurl }}/assets/images/2017/fireextinguisher.png)
+-->
+
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">

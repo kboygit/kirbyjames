@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'Shotgun & Vodoo Programming'
+title: 'SHOTGUN & VODOO PROGRAMMING'
 date: 2017-01-26 10:30:45
 categories: practices
 tags: practices cpp
