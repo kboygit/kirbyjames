@@ -1,7 +1,7 @@
 # Site Settings
 title: 'Kirby James'
 # description:
-url: 'https://kboygit.github.io/kirbyjames/' # the base hostname & protocol for your site
+url: 'http://kirbyjames.me/' # the base hostname & protocol for your site
 footer_text: 'Kirby James'
 twitter_user: FernandezKboy
 github_username:  kboygit
