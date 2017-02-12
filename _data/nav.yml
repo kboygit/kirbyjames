@@ -1,5 +1,6 @@
 main:
     - { url: 'about', text: 'About' }
     - { url: 'contact', text: 'Contact' }
+    - { url: 'https://www.linkedin.com/in/kirbyyy/', text: 'Linkedin'}
     - { url: 'https://github.com/kboygit', text: 'Github'}
-    - { url: 'https://twitter.com/fouryouonly', text: 'Twitter' }
+    - { url: 'https://twitter.com/kirbyyjames', text: 'Twitter' }
