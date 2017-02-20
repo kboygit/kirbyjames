@@ -1,11 +1,10 @@
 # Site Settings
-title: 'Kirby James'
+title: 'KIRBY JAMES'
 # description:
 url: 'http://kirbyjames.me/' # the base hostname & protocol for your site
 footer_text: 'Kirby James'
-twitter_user: FernandezKboy
-github_username:  kboygit
+twitter_username: '@kirbyyjames'
+github_username: 'kboygit'
 
 # Admin Settings
 admin_name: 'Kirby James'
-admin_email: 'kirbyy.james@gmail.com'
