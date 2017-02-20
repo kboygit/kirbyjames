@@ -2,13 +2,29 @@
     <footer class="site-footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    <p class="text-muted small">© {{ site.data.global.footer_text }}</p>
+
+                <div class="row">
+                    {% if site.data.global.twitter_username %}
+                      <div class="col-md-8 col-md-push-12">
+                        <a href="https://twitter.com/{{ site.data.global.twitter_username }}">
+                          <i class="fa fa-twitter"></i> Twitter
+                        </a>
+                      </div>
+                    {% endif %}
+
+                    {% if site.data.global.github_username %}
+                      <div class="col-md-6 col-md-push-12">
+                        <a href="https://github.com/{{ site.data.global.github_username }}">
+                          <i class="fa fa-github"></i> Github
+                        </a>
+                      </div>
+                    {% endif %}
+
+                    <div class="col-md-12 col-md-pull-8">
+                        <p class="text-muted small">© {{ site.data.global.footer_text }}</p>
+                    </div>
                 </div>
-                <!-- <div class="col-md-12">
-                    <p class="text-muted small">Twitter: {{ site.data.global.twitter_username }}</p>
-                    <p class="text-muted small">Github: {{ site.data.global.github_username }}</p>
-                </div> -->
+
             </div>
         </div>
     </footer>
