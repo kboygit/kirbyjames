@@ -9,7 +9,6 @@
                     {{ content }}
                     <div id="disqus_thread"></div>
                     <script>
-
                     /**
                     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
                     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
@@ -19,7 +18,7 @@
                     this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
                     };
                     */
-                    (function() { // DON'T EDIT BELOW THIS LINE
+                    (function() { //
                     var d = document, s = d.createElement('script');
                     s.src = '//kirbyjamesblog.disqus.com/embed.js';
                     s.setAttribute('data-timestamp', +new Date());
@@ -28,6 +27,31 @@
                     </script>
                     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                     <script id="dsq-count-scr" src="//kirbyjamesblog.disqus.com/count.js" async></script>
+
+                    <!-- Start of Async Drift Code -->
+                    <script>
+                    !function() {
+                      var t;
+                      if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+                      t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+                      t.factory = function(e) {
+                        return function() {
+                          var n;
+                          return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+                        };
+                      }, t.methods.forEach(function(e) {
+                        t[e] = t.factory(e);
+                      }), t.load = function(t) {
+                        var e, n, o, i;
+                        e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+                        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+                        n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+                      });
+                    }();
+                    drift.SNIPPET_VERSION = '0.3.1';
+                    drift.load('idkpfkx9ufst');
+                    </script>
+
                     </div>
                 </div>
             </div>
