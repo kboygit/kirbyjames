@@ -1,3 +1,4 @@
 main:
     - { url: 'about', text: 'About' }
     - { url: 'contact', text: 'Contact' }
+    - { url: 'https://standardresume.co/kirbyjames', text: 'Resume' }
