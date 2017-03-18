@@ -35,12 +35,15 @@
     <![endif]-->
     <link rel="stylesheet" href="css/style.scss">
     <!-- <script src="{{ site.baseurl }}/js/scripts.js"></script> -->
-    
+
     <!-- Base -->
     <base href="{{ site.data.global.url }}">
 
     <!-- favicon -->
     <link rel="icon" type="image/png" href="assets/images/favicon-16x16.png" sizes="16x16" />
+
+    <!-- linkedin -->
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
 

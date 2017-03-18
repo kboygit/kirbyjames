@@ -4,17 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-<!--
-![theater]({{ site.baseurl }}/assets/images/2017/theatre.png)
-![theater]({{ site.baseurl }}/assets/images/2017/luggage.png)
-![theater]({{ site.baseurl }}/assets/images/2017/demolition.png)
-![theater]({{ site.baseurl }}/assets/images/2017/watch.png)
-![theater]({{ site.baseurl }}/assets/images/2017/laptop.png)
-![theater]({{ site.baseurl }}/assets/images/2017/heart.png)
-![theater]({{ site.baseurl }}/assets/images/2017/fireextinguisher.png)
--->
-
-
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -49,3 +38,9 @@ permalink: /contact/
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+<!-- LinkedIN -->
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="kirbyyy">
+	<a class="LI-simple-link" href='https://www.linkedin.com/in/kirbyyy?trk=profile-badge'>Kirby Fernandez
+	</a>
+</div>

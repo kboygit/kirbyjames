@@ -20,6 +20,7 @@ permalink: /about/
 <br>
 <br>
 <br>
+
 {% highlight python %}
     Motto:
     It is better to get zero than nothing.
