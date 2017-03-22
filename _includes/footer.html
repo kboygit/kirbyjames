@@ -3,30 +3,27 @@
         <div class="container">
             <div class="row">
 
-                <div class="row">
-                    {% if site.data.global.twitter_username %}
-                      <div class="col-md-8 col-md-push-12">
-                        <a href="https://twitter.com/{{ site.data.global.twitter_username }}">
-                          <i class="fa fa-twitter"></i> Twitter
-                        </a>
-                      </div>
-                    {% endif %}
-
-                    {% if site.data.global.github_username %}
-                      <div class="col-md-6 col-md-push-12">
-                        <a href="https://github.com/{{ site.data.global.github_username }}">
-                          <i class="fa fa-github"></i> Github
-                        </a>
-                      </div>
-                    {% endif %}
-
-                    {% if site.data.global.url %}
-                      <div class="col-md-12 col-md-pull-8">
-                        <a href="{{ site.data.global.url }}/feed.xml">
-                          <i class="fa fa-rss"></i> Kirby James
-                        </a>
-                      </div>
-                    {% endif %}
+                <div class="wrapper">
+                  <div class="box">
+                    <a href="https://twitter.com/{{ site.data.global.twitter_username }}">
+                                          <i class="fa fa-twitter"></i> Twitter
+                                        </a>
+                  </div>
+                  <div class="box">
+                    <a href="https://github.com/{{ site.data.global.github_username }}">
+                                          <i class="fa fa-github"></i> Github
+                                        </a>
+                  </div>
+                  <div class="box">
+                    <a href="www.linkedin.com/in/kirbyyy{{ site.data.global.github_username }}">
+                                          <i class="fa fa-linkedin-square"></i> Linkedin
+                                        </a>
+                  </div>
+                  <div class="box">
+                    <a href="{{ site.data.global.url }}/feed.xml">
+                                          <i class="fa fa-rss"></i> Kirby James
+                                        </a>
+                  </div>
                 </div>
 
             </div>

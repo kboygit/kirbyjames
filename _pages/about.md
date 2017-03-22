@@ -9,7 +9,7 @@ permalink: /about/
 </p>
 <br>
 <div class="lead">
-  <snap>I am a self-taught developer , who loves to push 100 percent just to learn programming in general.I am a Navy Veteran who <3's technology and everything about computers.</snap>
+  <snap>I am a Navy Veteran, TechHire scholar, currently on TheFirehoseProject program who <3's technology and everything about computers.</snap>
 
   <snap>I love object-oriented programming,data science, ruby, cybersecurity and a part of OperationCode.</snap>
 
