@@ -14,7 +14,6 @@ permalink: /contact/
 <div id="mc_embed_signup">
 <form action="//coolkid.us15.list-manage.com/subscribe/post?u=6b95587292bbfb1b0087ed8ff&amp;id=18965f1e6f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
