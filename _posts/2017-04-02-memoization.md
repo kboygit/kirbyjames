@@ -36,16 +36,13 @@ else
 end
 {% endhighlight %}
 
-In short, this single line ( @current_section ||= ) says: if we've looked up the current_section beforehand use the value that we looked up previously. If we haven't looked up this section before, go into the database, look it up and also make sure to remember the value in case we need to look it up again later. This technique of storing certain values inside of the memory to reduce the times we have to find a certain value inside the database is called memoization/memoisation.
+In short, this single line '@current_section ||=' says: if we've looked up the current_section beforehand use the value that we looked up previously. If we haven't looked up this section before, go into the database, look it up and also make sure to remember the value in case we need to look it up again later. This technique of storing certain values inside of the memory to reduce the times we have to find a certain value inside the database is called memoization/memoisation.
 
-The ||= more or less translates to @current_course = @current_course || current_course.user. That means that you’ll only make the network call the first time you call current_course, and future calls will just return the value of the instance variable @current_course.
+The '||=' more or less translates to '@current_course = @current_course || current_course.user'. That means that you’ll only make the network call the first time you call current_course, and future calls will just return the value of the instance variable '@current_course'.
 
 ## Resources to read more about ruby memoization:
 
 - [4 simple memoization patterns](http://www.justinweiss.com/articles/4-simple-memoization-patterns-in-ruby-and-one-gem/)
-
 - [Memoization in ruby](https://atech.blog/atech/memoization-in-ruby)
-
 - [Basics of ruby memoization](http://gavinmiller.io/2013/basics-of-ruby-memoization/)
-
 - [Advanced memoization in ruby](http://gavinmiller.io/2013/advanced-memoization-in-ruby/)
