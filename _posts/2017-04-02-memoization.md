@@ -36,9 +36,11 @@ else
 end
 {% endhighlight %}
 
+{% highlight ruby %}
 In short, this single line '@current_section ||=' says: if we've looked up the current_section beforehand use the value that we looked up previously. If we haven't looked up this section before, go into the database, look it up and also make sure to remember the value in case we need to look it up again later. This technique of storing certain values inside of the memory to reduce the times we have to find a certain value inside the database is called memoization/memoisation.
 
 The '||=' more or less translates to '@current_course = @current_course || current_course.user'. That means that you’ll only make the network call the first time you call current_course, and future calls will just return the value of the instance variable '@current_course'.
+{% endhighlight %}
 
 ## Resources to read more about ruby memoization:
 
