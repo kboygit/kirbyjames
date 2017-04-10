@@ -1,3 +1,4 @@
 main:
     - { url: 'about', text: 'About' }
     - { url: 'contact', text: 'Contact' }
+    - { url: '{{ site.data.global.url }}/feed.xml', text: 'RSS'}
