@@ -48,3 +48,5 @@ The '||=' more or less translates to '@current_course = @current_course || curre
 - [Memoization in ruby](https://atech.blog/atech/memoization-in-ruby)
 - [Basics of ruby memoization](http://gavinmiller.io/2013/basics-of-ruby-memoization/)
 - [Advanced memoization in ruby](http://gavinmiller.io/2013/advanced-memoization-in-ruby/)
+
+<br/><br/>
