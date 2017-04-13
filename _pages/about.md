@@ -3,44 +3,39 @@ layout: inner
 title: Kirby James
 permalink: /about/
 ---
-<p align="center" class="lead">
-  <snap>Hi my name is Kirby you can call me Kirby.</snap><br>
-  <iframe src="//giphy.com/embed/vzU2bZ8WaCCA" width="200" height="145"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</p>
-<br>
 <div class="lead">
-  <snap>I am a Navy Veteran, TechHire scholar, currently on TheFirehoseProject program who <3's technology and everything about computers.</snap>
+  <p align="center">
+    <snap>Hi my name is Kirby.</snap>
+    <br>
+  </p>
+  <p align="center">
+  <snap>I am a Computer Science Student, Navy Veteran, TechHire scholar, TheFirehoseProject Student.</snap>
+  </p>
+  <p align="center">
+  <snap>I love object-oriented programming, data science, ruby/rails, c++, python, cybersecurity, music, travel, and food.</snap>    
+  <br>
+  </p>
+  <p align="center">
+  <snap>I hangout on OperationCode, Phackers, Code and Coffee LB, Ruby/Rails LA, and where the good food is at.</snap>
+  </p>
 
-  <snap>I love object-oriented programming,data science, ruby, cybersecurity and a part of OperationCode.</snap>
-
-  <snap>I usually hangout on Github and Slack.I like to eat food which I never tried before.And love being surrounded by super motivated and like minded individuals.</snap>
   <br>
   <br>
 </div>
-<br>
-<br>
-<br>
-
-{% highlight python %}
-    Motto:
-    It is better to get zero than nothing.
-    If you ain't feel dying you aren't trying.
-{% endhighlight %}
+  <br>
+  <br>
 
 {% highlight ruby %}
-puts "Hello , how are you?" + " I hope you are you doing fine and well."
-
+# I love new friends!
 class new_friend
   def highfive do
+    puts "Hello , how are you?" + " I hope you are you doing fine and well."
     puts "Highfive my new friend!"
   end
 end
 
-{% endhighlight %}
-
-{% highlight ruby %}
-First Ruby Game Library Encounter:
-Gem Gosu:
+# First Ruby Game Library Encounter:
+# Gem Gosu:
 # Gosu's dependencies for both C++ and Ruby
 sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev \
   libgl1-mesa-dev libopenal-dev libsndfile-dev
