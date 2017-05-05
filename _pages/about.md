@@ -4,26 +4,28 @@ title: Kirby James
 permalink: /about/
 ---
 <div class="lead">
-  <p align="center">
-    <snap>Hi my name is Kirby.</snap>
-    <br>
-  </p>
-  <p align="center">
-  <snap>I am a Computer Science Student, Navy Veteran, TechHire scholar, TheFirehoseProject Student.</snap>
-  </p>
-  <p align="center">
-  <snap>I love object-oriented programming, data science, ruby/rails, c++, python, cybersecurity, music, travel, and food.</snap>    
-  <br>
-  </p>
-  <p align="center">
-  <snap>I hangout on OperationCode, Phackers, Code and Coffee LB, Ruby/Rails LA, and where the good food is at.</snap>
-  </p>
+  <div class="container">
+    <p align="center">
+      <snap>Hi my name is Kirby.</snap>
+      <br />
+    </p>
+    <p align="center">
+    <snap>I am a Computer Science Student, Navy Veteran, TechHire scholar, TheFirehoseProject Student.</snap>
+    </p>
+    <p align="center">
+    <snap>I love object-oriented programming, data science, ruby/rails, c++, python, cybersecurity, music, travel, and food.</snap>    
+    <br />
+    </p>
+    <p align="center">
+    <snap>I hangout on OperationCode, Phackers, Code and Coffee LB, Ruby/Rails LA, and where the good food is at.</snap>
+    </p>
+  </div>
 
-  <br>
-  <br>
+  <br />
+  <br />
 </div>
-  <br>
-  <br>
+  <br />
+  <br class="clear-fix" />
 
 {% highlight ruby %}
 # I love new friends!
